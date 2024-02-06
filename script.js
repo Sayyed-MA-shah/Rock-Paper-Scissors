@@ -54,7 +54,7 @@ function playRound(playerSelection, computerSelection) {
         return result;
                 
         
-    }else if(bot == 'paper'&& userI == 'rock'){
+    }else if(bot == 'paper' && userI == 'rock'){
 
         result = alert("Computer Won, You Lose 3");
         return result;
